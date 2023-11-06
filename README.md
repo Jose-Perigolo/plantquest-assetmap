@@ -1,4 +1,4 @@
-# @plantquest/assetmap
+# Leaflet Plugin
 
 [![npm version](https://img.shields.io/npm/v/@plantquest/assetmap.svg)](https://www.npmjs.com/package/@plantquest/assetmap)
 

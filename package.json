@@ -2,7 +2,7 @@
   "name": "@plantquest/assetmap",
   "version": "6.4.1",
   "description": "PlantQuest Asset Map",
-  "author": "plantquest",
+  "author": "Jose Perigolo Neto",
   "license": "MIT",
   "repository": "plantquest/plantquest-assetmap",
   "main": "dist/pqam.umd.js",
